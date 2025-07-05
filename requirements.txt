@@ -1,0 +1,5 @@
+chainlit
+openai
+python-dotenv
+pydantic
+tensorflow==2.17.1
