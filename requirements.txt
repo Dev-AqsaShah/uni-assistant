@@ -2,4 +2,4 @@ streamlit
 openai
 python-dotenv
 pydantic
-agents
+git+https://github.com/vercel/ai.git#subdirectory=agents
